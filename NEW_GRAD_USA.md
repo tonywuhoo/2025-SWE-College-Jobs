@@ -16,6 +16,8 @@
 <!-- TABLE_FAANG_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://www.amazon.com"><strong>123</strong></a> | Software Engineer I | Seattle, WA | $178k/yr | <a href="https://www.amazon.jobs/jobs/123/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
+| <a href="https://www.amazon.com"><strong>123</strong></a> | Software Engineer I | Seattle, WA | $178k/yr | <a href="https://www.amazon.jobs/jobs/123/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
 | <a href="https://www.amazon.com"><strong>Amazon</strong></a> | Software Engineer I | Seattle, WA | $178k/yr | <a href="https://www.amazon.jobs/jobs/2851613/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
 | <a href="https://www.amazon.com"><strong>Amazon</strong></a> | Software Engineer I - iOS | Seattle, WA | $178k/yr | <a href="https://www.amazon.jobs/jobs/2836219/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 48d |
 | <a href="https://www.apple.com"><strong>Apple</strong></a> | Junior Server Engineer - Health Software | Sunnyvale, CA | $153k/yr | <a href="https://jobs.apple.com/en-us/details/200576343"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 60d |
@@ -41,7 +43,8 @@
 <!-- TABLE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| <a href="POOP"><strong>POOPPOOPPOOP</strong></a> | POOPPOOPPOOPPOOP POOP POOP | San Diego, CA | <a href="https://www.SLAVEJOB.com"><img src="test" alt="Apply" width="70"/></a> | 0d |
+| <a href="POOP"><strong>POOPPOOPPOOP</strong></a> | POOPPOOPPOOPPOOP POOP POOP | San Diego, CA | <a href="https://www.SLAVE123JOB.com"><img src="test" alt="Apply" width="70"/></a> | 0d 
+| <a href="POOP"><strong>POOPPOOPPOOP</strong></a> | POOPPOOPPOOPPOOP POOP POOP | San Diego, CA | <a href="https://www.SLAVE123JOB.com"><img src="test" alt="Apply" width="70"/></a> | 0d |
 | <a href="POOP"><strong>POOPPOOPPOOP</strong></a> | POOPPOOPPOOPPOOP POOP POOP | San Diego, CA | <a href="testing.com"><img src="test" alt="Apply" width="70"/></a> | 0d |
 | <a href="POOP"><strong>POOP</strong></a> | POOP POOP POOP | San Diego, CA | <a href="testing.com"><img src="test" alt="Apply" width="70"/></a> | 0d |
 | <a href="testing.com"><strong>ServiceNow</strong></a> | Associate Software Engineer | San Diego, CA | <a href="testing.com"><img src="test" alt="Apply" width="70"/></a> | 0d |
